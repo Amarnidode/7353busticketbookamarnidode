@@ -1,4 +1,9 @@
 # 7353busticketbookamarnidode
+
+
+This is my Bus Ticket Booking System project developed using ASP.NET Web Forms with C#, JavaScript, HTML, and CSS. In this project, users can search buses, select seats, enter passenger details, confirm booking, and download ticket information in PDF format. JavaScript is used for seat selection, dynamic color changes, and validation. It also includes features like QR code generation and booking confirmation page.
+
+
 1.home
 <img width="1877" height="875" alt="Screenshot 2025-10-28 210828" src="https://github.com/user-attachments/assets/aa6d5703-4f21-45b3-b66a-c5ed407f4a1b" />
 2.search bus
